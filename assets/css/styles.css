@@ -31,6 +31,10 @@ p {
    font-family:pretty;
 }
 
+img {
+    width: 100%;
+}
+
 
 .navbar {
    background-color: transparent;
