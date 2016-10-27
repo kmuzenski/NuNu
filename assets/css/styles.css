@@ -1,5 +1,5 @@
 body {
-background-color: #FFFFFF;
+background-color: #000000;
 }
 
 @font-face {
@@ -8,26 +8,26 @@ background-color: #FFFFFF;
 }
 
 h1 {
-	color:#9428a8;
+	color:#FFFFFF;
   font-family:pretty;
 }
 
 h2 {
-	color:#9428a8;
+	color:#FFFFFF;
 	font-family:pretty;}
 
 h3 {
-	color:#9428a8;
+	color:#FFFFFF;
 	font-family:pretty;
 }
 
 a {
-	color:#9428a8;
+	color:#FFFFFF;
    font-family:pretty;
 }
 
 p {
-	color:#9428a8;
+	color:#FFFFFF;
    font-family:pretty;
 }
 
@@ -39,7 +39,7 @@ p {
 }
 
 .navbar li { 
-	color: #9428a8; 
+	color:#FFFFFF;
 }
 
 
