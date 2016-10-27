@@ -10,7 +10,8 @@
 <?php require_once('nav.php'); ?>
 <br><br><br><br><br><br>
 <center>
-<h1>NU NU</h1>
+<h1>NUNU's TOWING AND SALVAGE</h1>
+<img src="assets/img/NNT.jpg">
 </center>
 
 
