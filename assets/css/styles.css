@@ -55,3 +55,10 @@ img {
 #navborder {
 	border: 1px solid #FFFFFF;
 }
+
+#footer {
+	font-size: 18px;
+	font-color:#5C2478;
+	font-family:pretty;
+
+}
