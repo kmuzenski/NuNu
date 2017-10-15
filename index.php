@@ -17,7 +17,7 @@
 <div class="row">
 <div class="col-xs-12">
 <center>
-<img src="assets/img/NNT.jpg" width="75%">
+<img src="assets/img/NNT.jpg" width="50%">
 </center>
 </div>
 
