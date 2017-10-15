@@ -1,5 +1,5 @@
 body {
-background-color: #000000;
+background-color: #FFFFFF;
 }
 
 @font-face {
@@ -8,26 +8,26 @@ background-color: #000000;
 }
 
 h1 {
-	color:#FFFFFF;
+	color:#9C32D1;
   font-family:pretty;
 }
 
 h2 {
-	color:#FFFFFF;
+	color:#9C32D1;
 	font-family:pretty;}
 
 h3 {
-	color:#FFFFFF;
+	color:#9C32D1;
 	font-family:pretty;
 }
 
 a {
-	color:#FFFFFF;
+	color:#9C32D1;
    font-family:pretty;
 }
 
 p {
-	color:#FFFFFF;
+	color:#9C32D1;
    font-family:pretty;
    font-size: 30px; 
 }
@@ -44,5 +44,12 @@ img {
 
 }
 
+#mynavb {
+
+	background-color:#9C32D1;
+}
 
 
+#navborder {
+	border: 1px solid #FFFFFF;
+}
