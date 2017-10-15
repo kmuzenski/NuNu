@@ -12,6 +12,7 @@
 
 <center>
 	<h1><u>NuNu's Services</u></h1>
+	<p>Call 414-777-7777 to get an estimate on service costs. Pricing may vary</p>
 	<br>
 </center>
 
