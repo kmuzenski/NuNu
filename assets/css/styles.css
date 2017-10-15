@@ -10,26 +10,28 @@ background-color: #FFFFFF;
 h1 {
 	color:#5C2478;
   font-family:pretty;
+  font-size: 36px;
 }
 
 h2 {
 	color:#5C2478;
-	font-family:pretty;}
-
-h3 {
-	color:#5C2478;
 	font-family:pretty;
+	   font-size: 30px; 
+
 }
+
 
 a {
 	color:#5C2478;
    font-family:pretty;
+    font-size: 26px; 
+
 }
 
 p {
 	color:#5C2478;
    font-family:pretty;
-   font-size: 30px; 
+   font-size: 24px; 
 }
 
 img {
