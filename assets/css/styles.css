@@ -37,14 +37,11 @@ img {
 }
 
 
-.navbar {
-   background-color: transparent;
-   background: transparent;
-   border-color: transparent;
-}
-
-.navbar { 
+.mynav {
 	color:#FFFFFF;
+   font-family:pretty;
+   font-size: 24px;
+
 }
 
 

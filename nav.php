@@ -1,28 +1,23 @@
-<nav class="navbar navbar-default navbar-fixed-top">
-        
-    <div class="container">
-        <div class="navbar-header">
-          
-        <button type="button" class="navbar-toggle btn-custom" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="index.php"></a>     
+<div id="mynavb">
+  <div class="row">
+  
+  <div class="col-xs-12 col-md-4 col-lg-4" id="navborder">
+  <center>
+  <a href="index.php" class="mynav" title="home">Home</a>
+  </center>
+  </div>
+  
+  <div class="col-xs-12 col-md-4 col-lg-4" id="navborder" >
+  <center>
+  <a href="services.php" class="mynav" title="services">Services</a>
+  </center>
+  </div>
 
+  <div class="col-xs-12 col-md-4 col-lg-4" id="navborder" >
+  <center>
+  <a href="contact.php" class="mynav" title="contact" id="mynav">Contact</a>
+  </center>
+  </div>
 
-        </div>
-         
-     <div id="navbar" class="collapse navbar-collapse">
-            
-        <ul class="nav navbar-nav">
-        
-        <li><a  href="index.php">Home</a></li>    
-        <li><a  href="about.php">About</a></li> 
-        <li><a  href="contact.php">Contact</a></li> 
-        <li><a  href="faq.php">FAQ</a></li> 
-
-    
-
- </nav>
+</div> <!--row-->
+</div> <!--container -->
