@@ -15,14 +15,14 @@
 	<div class="row">
 		<div class="col-xs-12 col-md-12 col-lg-12">
 			<center>
-			<h2 alt="phone number" title="phone number">Phone: 414-777-7777</h2>
+			<h2 alt="phone number" title="phone number">Phone: 414-217-4023</h2>
 			</center>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-xs-12 col-md-12 col-lg-12">
 			<center>
-			<a href="https://www.facebook.com/Nunus-towing-salvage-llc-1045056545518539/" alt="facebook" title="facebook">Like &amp; Follow our Page on Facebook</a>
+			<a href="https://www.facebook.com/Nunus-towing-salvage-llc-1045056545518539/" alt="facebook" title="facebook" target="_blank">Like &amp; Follow our Page on Facebook</a>
 			</center>
 		</div>
 	</div>
