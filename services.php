@@ -20,7 +20,6 @@
 
 	<div class="row">
 		<div class="col-xs-6 col-md-6 col-lg-6">
-			<img src="assets/img/tow1.jpg" width="50%"><br>
 			<img src="assets/img/tow2.jpg" width="50%"><br>
 		</div>
 		<div class="col-xs-6 col-md-6 col-lg-6">
