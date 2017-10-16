@@ -20,11 +20,11 @@
 
 	<div class="row">
 		<div class="col-xs-6 col-md-6 col-lg-6">
-			<img src="assets/img/tow.jpg" width="50%">
+			<img src="assets/img/tow1.jpg" width="50%"><br>
+			<img src="assets/img/tow2.jpg" width="50%"><br>
 		</div>
 		<div class="col-xs-6 col-md-6 col-lg-6">
 			<center>
-			<br><br>
 			<p>-24 Hour Towing Services<br>
 			   -Winch outs, lock outs, and jump starts<br>
 			   -We buy unwanted vehicles and catalytic converters for CASH<br>
