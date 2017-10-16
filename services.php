@@ -11,8 +11,8 @@
 <br><br><br>
 
 <center>
-	<h1><u>NuNu's Services</u></h1>
-	<p>Call 414-777-7777 to get an estimate on service costs. Pricing may vary</p>
+	<h1><u>NUNU's SERVICES</u></h1>
+	<p>Call 414-217-4023 to get an estimate on service costs. Pricing may vary</p>
 	<br>
 </center>
 
@@ -26,7 +26,8 @@
 			<center>
 			<br><br>
 			<p>-24 Hour Towing Services<br>
-			   -We buy JUNK cars for CASH<br>
+			   -Winch outs, lock outs, and jump starts<br>
+			   -We buy unwanted vehicles and catalytic converters for CASH<br>
 			   -MUST have clean title on hand<br>
 			   -No current Liens within 10 years<br>
 			</center>
